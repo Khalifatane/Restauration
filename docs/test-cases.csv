@@ -1,0 +1,7 @@
+Page,Test,Expected Result,Status
+Home,Load,Products load,⏳
+PLP,Filter,Correct products,⏳
+PDP,Select variant,Price updates,⏳
+Cart,Add item,Item appears,⏳
+Checkout,Submit,Saves data,⏳
+Payment,Pay,Redirects,⏳

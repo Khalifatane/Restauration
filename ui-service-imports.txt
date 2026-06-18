@@ -1,0 +1,3 @@
+﻿src/ui\components\pdp\add-to-cart.tsx:7:import { useCartService } from "@/services/cart";
+src/ui\components\cart\cart-drawer.tsx:9:import { useCartService } from "@/services/cart";
+src/ui\components\nav\components\cart-nav-item.tsx:4:import { useCartService } from "@/services/cart";
